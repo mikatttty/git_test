@@ -7,7 +7,10 @@ line5
 line7
 
 
-topic-A追記
+topic-A追記git push -u origin master
 
 #topic-B
 ☆☆☆☆☆☆
+
+
+プルリクエストのテスト
